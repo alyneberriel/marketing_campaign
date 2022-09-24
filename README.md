@@ -24,7 +24,7 @@ Nivel Pandas
 
 
 ---
-Nivel PySpark (Funções básicas vistas em aula)
+Nivel PySpark 
 
 
 ---
